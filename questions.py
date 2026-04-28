@@ -534,7 +534,7 @@ QUESTIONS = {
             "hard": {
                 "q": "How many prime numbers are between 10 and 30?",
                 "choices": ["3", "4", "5", "6"],
-                "answer": "4",
+                "answer": "6",
             },
         },
         15: {
