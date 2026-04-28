@@ -1,6 +1,6 @@
 # Cognitive Ability Test
 
-A lightweight Python app that measures **Language**, **Reasoning**, and **Memory** using multiple-choice questions and adaptive difficulty.
+A Python app that measures **Language**, **Reasoning**, and **Memory** using multiple-choice questions and adaptive difficulty.
 
 ## What it does
 - Shows a short memory stimulus first.
